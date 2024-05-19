@@ -1,4 +1,4 @@
-# Suppliers Analysis
+# Suppliers Analysis (a workshop by Lokad)
 This project aims to analyze the suppliers’ situation of CM, a fictitious European company selling outdoor clothing and sporting equipment1. The project uses Python and pandas to perform data manipulation and visualization on various data sources, such as items, purchase orders, and suppliers.
 
 # Data Sources
